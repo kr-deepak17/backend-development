@@ -78,7 +78,7 @@ fs.readFile('sample.txt','Utf8',(err,data)=>{
         console.log(`${Date.now()-start}ms`,'password 4 done');
     })
 })
-console.log("hello from top level code");
+console.log("hello from top level code")
 
 
 
